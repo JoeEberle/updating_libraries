@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Updating Libraries - Makes sure the LATEST technology is used. 
 Makes sure the LATEST technology is used. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Updating Libraries** - an example for your projects
 Makes sure the LATEST technology is used. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
